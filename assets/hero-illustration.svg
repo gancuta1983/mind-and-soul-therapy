@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 520" role="img" aria-label="Calm abstract botanical illustration">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#f7efe7"/><stop offset="1" stop-color="#e0ece8"/></linearGradient></defs>
+<rect x="30" y="30" width="560" height="460" rx="42" fill="url(#g)"/>
+<circle cx="410" cy="182" r="102" fill="#fff" opacity=".72"/>
+<path d="M180 430c24-110 91-190 202-250" fill="none" stroke="#315f58" stroke-width="10" stroke-linecap="round"/>
+<g fill="#8fb5a9"><ellipse cx="252" cy="332" rx="58" ry="22" transform="rotate(-34 252 332)"/><ellipse cx="312" cy="274" rx="62" ry="23" transform="rotate(24 312 274)"/><ellipse cx="368" cy="218" rx="62" ry="23" transform="rotate(-30 368 218)"/><ellipse cx="428" cy="172" rx="52" ry="20" transform="rotate(24 428 172)"/></g>
+<g fill="#d8bca8"><ellipse cx="208" cy="382" rx="47" ry="18" transform="rotate(30 208 382)"/><ellipse cx="282" cy="306" rx="52" ry="19" transform="rotate(-26 282 306)"/><ellipse cx="344" cy="248" rx="50" ry="19" transform="rotate(30 344 248)"/></g>
+<path d="M120 150c45-66 139-70 185-8 37 50 24 123-20 158-47 38-116 30-154-14-35-41-39-94-11-136Z" fill="#fff" opacity=".68"/>
+<path d="M172 258c-27-25-43-52-43-82 0-36 22-61 53-61 20 0 38 11 49 29 11-18 29-29 49-29 31 0 53 25 53 61 0 54-50 93-102 126-22-14-42-29-59-44Z" fill="none" stroke="#8e6e58" stroke-width="5"/>
+</svg>
